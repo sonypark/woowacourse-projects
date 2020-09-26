@@ -52,11 +52,11 @@
 
 |       Project        |                          Repository                          |                         코드 리뷰                         |                         비고                         |
 | :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|    웹 체스     | [jwp-chess](https://github.com/sonypark/mirror-jwp-chess) | [코드 리뷰1](https://github.com/woowacourse/jwp-chess/pull/5),  [코드 리뷰2](https://github.com/woowacourse/jwp-chess/pull/71), [코드 리뷰3](https://github.com/woowacourse/jwp-chess/pull/138), [코드 리뷰4](https://github.com/woowacourse/jwp-chess/pull/181)| |
+|    웹 체스     | [jwp-chess](https://github.com/sonypark/mirror-jwp-chess) | [코드 리뷰1](https://github.com/woowacourse/jwp-chess/pull/5),  [코드 리뷰2](https://github.com/woowacourse/jwp-chess/pull/71), [코드 리뷰3](https://github.com/woowacourse/jwp-chess/pull/138)| 크루 코드 리뷰 |
 |   지하철 정보 관리 (인수 테스트)  | [atdd-subway-admin](https://github.com/sonypark/atdd-subway-admin/tree/step4) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-admin/pull/16) | |
 |   지하철 경로 조회 (TDD, ETag)   | [atdd-subway-path](https://github.com/sonypark/atdd-subway-path/tree/step3) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-path/pull/7) | |
 | 지하철 경로 즐겨찾기 (API 테스트, 문서자동화) | [atdd-subway-favorite](https://github.com/sonypark/atdd-subway-favorite/tree/feat/favorite) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-favorite/pull/25) | |
-| todolist 상태 관리 미션 | [todolist](https://github.com/sonypark/todolist/tree/feat/state/sonypark) | [코드 리뷰](https://github.com/woowacourse/todolist/pull/14) | | 프론트엔드 선택 미션 ( 순수 js로 상태 관리 패턴 todolist 구현하기) 
+| todolist 상태 관리 미션 | [todolist](https://github.com/sonypark/todolist/tree/feat/state/sonypark) | [코드 리뷰](https://github.com/woowacourse/todolist/pull/14) | 프론트엔드 선택 미션 ( 순수 js로 상태 관리 패턴 todolist 구현하기) |  
 
 <br/>
 
