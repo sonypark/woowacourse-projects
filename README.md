@@ -52,7 +52,7 @@
 
 |       Project        |                          Repository                          |                         코드 리뷰                         |                         비고                         |
 | :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|    웹 체스     | [jwp-chess](https://github.com/sonypark/mirror-jwp-chess) | [코드 리뷰1](https://github.com/woowacourse/jwp-chess/pull/5),  [코드 리뷰2](https://github.com/woowacourse/jwp-chess/pull/71), [코드 리뷰3](https://github.com/woowacourse/jwp-chess/pull/138)| 크루 코드 리뷰 |
+|    웹 체스     | [jwp-chess](https://github.com/sonypark/mirror-jwp-chess) | [코드 리뷰](https://github.com/woowacourse/jwp-chess/pull/71) | 크루 코드 리뷰 |
 |   지하철 정보 관리 (인수 테스트)  | [atdd-subway-admin](https://github.com/sonypark/atdd-subway-admin/tree/step4) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-admin/pull/16) | |
 |   지하철 경로 조회 (TDD, ETag)   | [atdd-subway-path](https://github.com/sonypark/atdd-subway-path/tree/step3) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-path/pull/7) | |
 | 지하철 경로 즐겨찾기 (API 테스트, 문서자동화) | [atdd-subway-favorite](https://github.com/sonypark/atdd-subway-favorite/tree/feat/favorite) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-favorite/pull/25) | |
