@@ -10,30 +10,6 @@
 
 <br/>
 
-## ⏳ Level 0 : 프리코스 + 오프라인 테스트
-
-### 기간
-
-- 프리코스: 2019.11.27 ~ 2019.12.17
-- 오프라인 테스트: 2019.12.24
-
-### 학습 목표
-
-- [목적의식 있는 연습을 통한 효과적인 학습](https://brunch.co.kr/@javajigi/8)
-- 선발 과정에서 지원자들의 성장을 유도
-
-
-### 진행 미션
-
-|     Project      |                          Repository                          |                         Pull Request                         |
-| :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  숫자 야구 게임  | [java-baseball-precourse](https://github.com/KimSeongGyu1/java-baseball-precourse) |  |
-| 자동차 경주 게임 | [java-racingcar-precourse](https://github.com/KimSeongGyu1/java-racingcar-precourse) | |
-|      블랙잭      | [java-blackjack-precourse](https://github.com/KimSeongGyu1/java-blackjack-precourse) | [당시 고민의 흔적](https://github.com/woowacourse/java-blackjack-precourse/pull/12) |
-|      치킨 집      | [java-chicken-2019](https://github.com/KimSeongGyu1/java-chicken-2019) |  |
-
-<br/>
-
 ## 🥚 Level 1 : 프로그래밍 기본
 
 ### 기간
@@ -51,16 +27,12 @@
 
 |     Project      |                          Repository                          |                         코드 리뷰                         |
 | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  온 보딩 (유닛테스트, 학습테스트)  | [java-calculator](https://github.com/KimSeongGyu1/java-calculator) | [코드 리뷰](https://github.com/woowacourse/java-calculator/pull/54) |
-| 자동차 경주 (TDD) |  [java-racingcar](https://github.com/KimSeongGyu1/java-racingcar)  | [코드 리뷰](https://github.com/woowacourse/java-racingcar/pull/77) |
-|   로또 / step1 (enum)   | [java-lotto/step1](https://github.com/KimSeongGyu1/java-lotto/tree/YuanElly) | [코드 리뷰](https://github.com/woowacourse/java-lotto/pull/128) |
-|   로또 / step2 (enum)   | [java-lotto/step2](https://github.com/KimSeongGyu1/java-lotto) | [코드 리뷰](https://github.com/woowacourse/java-lotto/pull/221) |
-|  블랙잭 / step1 (상속, 인터페이스) | [java-blackjack/step1](https://github.com/KimSeongGyu1/java-blackjack/tree/firststep) | [코드 리뷰](https://github.com/woowacourse/java-blackjack/pull/39) |
-|  블랙잭 / step2 (상속, 인터페이스) | [java-blackjack/step2](https://github.com/KimSeongGyu1/java-blackjack) | [코드 리뷰](https://github.com/woowacourse/java-blackjack/pull/90) |
-|   체스 / step1 (객체지향 설계) | [java-chess/step1](https://github.com/KimSeongGyu1/java-chess/tree/kimseonggyu1) | [코드 리뷰](https://github.com/woowacourse/java-chess/pull/67) |
-|   체스 / step2 (객체지향 설계) | [java-chess/step2](https://github.com/KimSeongGyu1/java-chess) | [코드 리뷰](https://github.com/woowacourse/java-chess/pull/110) |
-|   90년생 HTML (html, css, js)    |            [html](https://github.com/KimSeongGyu1/html)            | 코드 리뷰 X: 단순 html 학습 미션  |
-|   오프라인 코딩 테스트 다시   |            [java-chiken-after-level-1](https://github.com/KimSeongGyu1/java-chicken-2020)            | 코드 리뷰 X: 실력 향상 점검 테스트 |
+|  온 보딩 (유닛테스트, 학습테스트)  | [java-calculator](https://github.com/sonypark/java-calculator/tree/onboarding) | [코드 리뷰](https://github.com/woowacourse/java-calculator/pull/53) |
+| 자동차 경주 (TDD) |  [java-racingcar](https://github.com/sonypark/mirror-java-racingcar)  | [코드 리뷰](https://github.com/woowacourse/java-racingcar/pull/102) |
+|   로또   | [java-lotto](https://github.com/sonypark/java-lotto/tree/manual-lotto) | [코드 리뷰1](https://github.com/woowacourse/java-lotto/pull/147), [코드리뷰2](https://github.com/woowacourse/java-lotto/pull/200) |
+|  블랙잭 | [java-blackjack](https://github.com/sonypark/java-blackjack/tree/step2) | [코드 리뷰1](https://github.com/woowacourse/java-blackjack/pull/28), [코드 리뷰2](https://github.com/woowacourse/java-blackjack/pull/107) |
+|   콘솔 체스 | [java-chess/step1](https://github.com/sonypark/java-chess/tree/step5) | [코드 리뷰](https://github.com/woowacourse/java-chess/pull/123) |
+|   오프라인 코딩 테스트 - 치킨 2020   |            [java-chiken-2020](https://github.com/sonypark/java-chicken-2020/tree/recap-2)            | 코드 리뷰 X: 실력 향상 점검 테스트 |
 
 <br/>
 
@@ -80,13 +52,11 @@
 
 |       Project        |                          Repository                          |                         코드 리뷰                         |                         비고                         |
 | :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|     체스 / step 1+2 (스프링 실습)     | [jwp-chess/step4](https://github.com/KimSeongGyu1/jwp-chess) | [코드 리뷰](https://github.com/woowacourse/jwp-chess/pull/44) | 당시 깃과 깃허브에 대한 이해 부족으로 PR을 하나로 이어 붙임 |
-|     체스 / step3 (스프링 실습)    | 한 개의 브랜치에서 계속 진행 | [코드 리뷰](https://github.com/woowacourse/jwp-chess/pull/149) | 브랜치도 계속 한개를 이어서 사용 |
-|     체스 / step4 (스프링 실습)    | 한 개의 브랜치에서 계속 진행 | [코드 리뷰](https://github.com/woowacourse/jwp-chess/pull/176) | 리뷰어가 관여하지 않고 크루들끼리 진행한 미션이라 마지막까지 잘못된 걸 모르고 진행 |
-|  지하철 Admin CRUD (프론트 학습)  | [atdd-subway-admin-frontend](https://github.com/KimSeongGyu1/atdd-subway-admin-frontend) | 코드 리뷰 X: 단순 프로트 학습 | |
-|   지하철 정보 관리 (인수 테스트)  | [atdd-subway-admin](https://github.com/KimSeongGyu1/atdd-subway-admin) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-admin/pull/4) | |
-|   지하철 경로 조회 (TDD, ETag)   | [atdd-subway-path](https://github.com/KimSeongGyu1/atdd-subway-path) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-path/pull/24) | |
-| 지하철 경로 즐겨찾기 (API 테스트, 문서자동화) | [atdd-subway-favorite](https://github.com/KimSeongGyu1/atdd-subway-favorite) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-favorite/pull/54) | |
+|    웹 체스     | [jwp-chess](https://github.com/sonypark/mirror-jwp-chess) | [코드 리뷰1](https://github.com/woowacourse/jwp-chess/pull/5),  [코드 리뷰2](https://github.com/woowacourse/jwp-chess/pull/71), [코드 리뷰3](https://github.com/woowacourse/jwp-chess/pull/138), [코드 리뷰4](https://github.com/woowacourse/jwp-chess/pull/181)| |
+|   지하철 정보 관리 (인수 테스트)  | [atdd-subway-admin](https://github.com/sonypark/atdd-subway-admin/tree/step4) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-admin/pull/16) | |
+|   지하철 경로 조회 (TDD, ETag)   | [atdd-subway-path](https://github.com/sonypark/atdd-subway-path/tree/step3) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-path/pull/7) | |
+| 지하철 경로 즐겨찾기 (API 테스트, 문서자동화) | [atdd-subway-favorite](https://github.com/sonypark/atdd-subway-favorite/tree/feat/favorite) | [코드 리뷰](https://github.com/woowacourse/atdd-subway-favorite/pull/25) | |
+| todolist 상태 관리 미션 | [todolist](https://github.com/sonypark/todolist/tree/feat/state/sonypark) | [코드 리뷰](https://github.com/woowacourse/todolist/pull/14) | | 프론트엔드 선택 미션 ( 순수 js로 상태 관리 패턴 todolist 구현하기) 
 
 <br/>
 
@@ -103,15 +73,14 @@
 
 ### 진행 프로젝트
 
-|       Project        |                          Repository                          |
-| :------------------: | :----------------------------------------------------------: |
-| [devbie](https://devbie.kr/) | [깃허브](https://github.com/woowacourse-teams/2020-devbie) |
+|       Project        |                          Repository                          |                         비고                         |
+| :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [devbie](https://devbie.kr/) | [깃허브](https://github.com/woowacourse-teams/2020-devbie) | [소개 페이지](https://sites.google.com/woowahan.com/wooteco-demo/devbie?authuser=0)
 
 ### 담당 작업
 
-- 기반 작업(도커, CI/CD, nginx, https, mysql)
-- 채팅
-- 추천, 댓글 시스템, 회원가입 등에서 협업
+- 공고/질문 즐겨찾기, 마이페이지, 공고 상세 페이지, 캐싱 적용(Etag, Spring boot @Cacheable)
+- OAuth 로그인, DB 마이그레이션 등 협업
 
 
 <br/>
@@ -134,7 +103,7 @@
 
 |     Project      |                          Repository                          |                         코드 리뷰                         |
 | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  WAS 구현  | [jwp-was](https://github.com/KimSeongGyu1/jwp-was) | 진행 중 |
+|  WAS 구현  | [jwp-was](https://github.com/sonypark/jwp-was) | [코드 리뷰](https://github.com/woowacourse/jwp-was/pull/116) |
 | 점진적 리펙토링 |  아직 진행 X  | 아직 진행 X  |
 
 
@@ -146,9 +115,9 @@
 
 | Level |                 Topic                  |                          Repository                          |                         리뷰                         |
 | :---: | :------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|   1   |      우아한테크코스 한 달 생활기       | [woowa-writing-2/level1](https://github.com/KimSeongGyu1/woowa-writing-2/blob/yuan/%EB%A0%88%EB%B2%A81.md) | [리뷰](https://github.com/woowacourse/woowa-writing-2/pull/13) |
-|   2   | 우테코에서 찾은 나만의 효과적인 학습법 | [woowa-writing-2/level2](https://github.com/KimSeongGyu1/woowa-writing-2/blob/yuan/%EB%A0%88%EB%B2%A82.md) | [리뷰](https://github.com/woowacourse/woowa-writing-2/pull/87) |
-|   3   |    팀 프로젝트가 나에게 남긴 것     | [woowa-writing-2/level3](https://github.com/KimSeongGyu1/woowa-writing-2/blob/yuan/%EB%A0%88%EB%B2%A83.md) | [리뷰](https://github.com/woowacourse/woowa-writing-2/pull/118) |
+|   1   |      우아한테크코스 한 달 생활기       | [woowa-writing-2/level1](https://github.com/sonypark/woowa-writing-2/blob/sonypark/%5B%EB%A0%88%EB%B2%A81-%EA%B8%B0%EB%A1%9D%5D%EC%A1%B0%EA%B8%88%20%EB%8A%A6%EC%9C%BC%EB%A9%B4%20%EC%96%B4%EB%95%8C.md) | [리뷰](https://github.com/woowacourse/woowa-writing-2/pull/17) |
+|   2   | 우테코에서 찾은 나만의 효과적인 학습법 | [woowa-writing-2/level2](https://github.com/sonypark/woowa-writing-2/blob/sonypark/%5B%EB%A0%88%EB%B2%A82-%EC%84%B1%EC%9E%A5%5D%ED%95%99%EC%8A%B5%EC%97%90%20%EB%8C%80%ED%95%9C%20%ED%83%9C%EB%8F%84.md) | [리뷰](https://github.com/woowacourse/woowa-writing-2/pull/73) |
+|   3   |    팀 프로젝트가 나에게 남긴 것     | [woowa-writing-2/level3](https://github.com/sonypark/woowa-writing-2/blob/sonypark/%5B%EB%A0%88%EB%B2%A83-%ED%9A%8C%EA%B3%A0%5D%ED%8C%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%80%20%EB%82%98%EC%97%90%EA%B2%8C%20%EB%82%A8%EA%B8%B4%20%EA%B2%83.md) | [리뷰](https://github.com/woowacourse/woowa-writing-2/pull/155) |
 |   4   |       3기 크루들에게 보내는 편지?       |                       comming soon...                        |                       comming soon...                        |
 
 <br/>
@@ -157,10 +126,6 @@
 
 ### 테코톡: 크루들과 지식을 공유하는 방법
 
-- 발표 주제: 스프링
-- 10/7 예정
-
-### 🗃 [Javable](https://woowacourse.github.io/javable/) : 우아한테크코스 블로그
-
-- [생성자 인자가 많을 땐? Builder!](https://woowacourse.github.io/javable/2020-08-17/builder_pattern)
-- [토큰을 어디에 저장할까?](https://woowacourse.github.io/javable/2020-08-31/where_to_store_token)
+- 발표 주제: 캐싱
+- 2020년 9월 16일
+- [발표 영상 링크]()
