@@ -128,4 +128,4 @@
 
 - 발표 주제: 캐싱
 - 2020년 9월 16일
-- [발표 영상 링크]()
+- [발표 영상 링크](https://www.youtube.com/watch?v=NxFJ-mJdVNQ&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
